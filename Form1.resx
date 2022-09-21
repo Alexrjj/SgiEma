@@ -57,1266 +57,1266 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="&gt;&gt;groupBox1.Parent" xml:space="preserve">
-    <value>groupBoxGombase</value>
-  </data>
-  <data name="&gt;&gt;chkBoxCriarPI.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="textBoxArquivoGomnetUpload.Size" type="System.Drawing.Size, System.Drawing">
-    <value>549, 27</value>
-  </data>
   <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="groupBoxGomnetUpload.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="groupBoxArquivos.Size" type="System.Drawing.Size, System.Drawing">
-    <value>345, 237</value>
-  </data>
-  <data name="&gt;&gt;chkBoxMovimentar.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btnProgExecutar.Name" xml:space="preserve">
-    <value>btnProgExecutar</value>
-  </data>
-  <data name="&gt;&gt;btnFiscExecutar.Parent" xml:space="preserve">
-    <value>groupBoxFiscalizacao</value>
-  </data>
-  <data name="btnPlanejGeralExecutar.Location" type="System.Drawing.Point, System.Drawing">
-    <value>129, 182</value>
-  </data>
-  <data name="tabPageFaturamento.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 27</value>
-  </data>
-  <data name="btnPlanejamentoGeralProcurar.Location" type="System.Drawing.Point, System.Drawing">
-    <value>232, 24</value>
-  </data>
-  <data name="chkFiscMA.Location" type="System.Drawing.Point, System.Drawing">
-    <value>10, 125</value>
-  </data>
-  <data name="&gt;&gt;chkFiscMA.Name" xml:space="preserve">
-    <value>chkFiscMA</value>
-  </data>
-  <data name="&gt;&gt;btnPlanejamentoGeralProcurar.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="checkBox1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>183, 24</value>
-  </data>
-  <data name="groupBoxGomnet.Size" type="System.Drawing.Size, System.Drawing">
-    <value>713, 610</value>
-  </data>
-  <data name="chkBoxStatusSob.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="$this.AutoScroll" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="chkBoxMovimentar.TabIndex" type="System.Int32, mscorlib">
+  <data name="chkBoxDataFisc.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
-  </data>
-  <data name="chkBoxExtrairNTrab.Text" xml:space="preserve">
-    <value>Extrair Nº de Trabalho</value>
-  </data>
-  <data name="&gt;&gt;chkBoxVistoriar.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;chkBoxExtrairOrcamento.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="groupBoxProgramacao.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 99</value>
-  </data>
-  <data name="&gt;&gt;chkBoxExtrairSGD.Name" xml:space="preserve">
-    <value>chkBoxExtrairSGD</value>
-  </data>
-  <data name="chkBoxExtrairNTrab.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;groupBoxGomnetUpload.Name" xml:space="preserve">
-    <value>groupBoxGomnetUpload</value>
-  </data>
-  <data name="&gt;&gt;textBoxArquivoGomnetAdm.Name" xml:space="preserve">
-    <value>textBoxArquivoGomnetAdm</value>
-  </data>
-  <data name="&gt;&gt;chkBoxMovimentar.Name" xml:space="preserve">
-    <value>chkBoxMovimentar</value>
-  </data>
-  <data name="&gt;&gt;groupBoxGomnetUploadInputArquivo.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="btnArquivoGomnet.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;btnArquivosExecutar.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;groupBoxGomnetUpload.Parent" xml:space="preserve">
-    <value>tabPage1</value>
-  </data>
-  <data name="&gt;&gt;$this.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Form, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;chkBoxVistoriar.Parent" xml:space="preserve">
-    <value>groupBoxProgramacao</value>
-  </data>
-  <data name="chkBoxEnergizar.Size" type="System.Drawing.Size, System.Drawing">
-    <value>86, 23</value>
-  </data>
-  <data name="textBoxArquivoPlanejGeral.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 26</value>
-  </data>
-  <data name="checkBox1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>10, 118</value>
-  </data>
-  <data name="&gt;&gt;groupBoxGomnet.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;chkBoxVincSup.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="chkBoxEnergizar.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="&gt;&gt;chkBoxStatusFisc.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="tabControl1.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;tabPage1.Parent" xml:space="preserve">
-    <value>tabControlObra</value>
-  </data>
-  <data name="&gt;&gt;tabControl1.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;btnPlanejamentoGeralProcurar.Name" xml:space="preserve">
-    <value>btnPlanejamentoGeralProcurar</value>
-  </data>
-  <data name="&gt;&gt;btnGomnetUploadEnviarArquivos.Parent" xml:space="preserve">
-    <value>groupBoxGomnetUploadInputArquivo</value>
-  </data>
-  <data name="chkBoxVistoriar.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="&gt;&gt;groupBox2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;chkBoxExtrairPlanej.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="tabPage1.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 3, 3, 3</value>
-  </data>
-  <data name="groupBoxAdmFisc.Size" type="System.Drawing.Size, System.Drawing">
-    <value>345, 237</value>
-  </data>
-  <data name="btnGomnetUploadProcurar.Text" xml:space="preserve">
-    <value>Procurar...</value>
-  </data>
-  <data name="chkBoxMovimentar.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="&gt;&gt;groupBoxPlanejamentoGeral.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="chkBoxStatusSob.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="chkBoxMovimentar.Size" type="System.Drawing.Size, System.Drawing">
-    <value>211, 24</value>
-  </data>
-  <data name="chkBoxFiscMO.Location" type="System.Drawing.Point, System.Drawing">
-    <value>10, 95</value>
-  </data>
-  <data name="btnFiscExecutar.Location" type="System.Drawing.Point, System.Drawing">
-    <value>129, 177</value>
-  </data>
-  <data name="&gt;&gt;textBoxArquivoGomnetUpload.Name" xml:space="preserve">
-    <value>textBoxArquivoGomnetUpload</value>
-  </data>
-  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
-    <value>7, 15</value>
-  </data>
-  <data name="&gt;&gt;tabPage1.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;btnPlanejamentoGeralProcurar.Parent" xml:space="preserve">
-    <value>groupBoxPlanejamentoGeral</value>
-  </data>
-  <data name="&gt;&gt;chkBoxExtrairOrcamento.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="tabPage1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>738, 1032</value>
-  </data>
-  <data name="&gt;&gt;chkBoxExtrairNTrab.Name" xml:space="preserve">
-    <value>chkBoxExtrairNTrab</value>
-  </data>
-  <data name="&gt;&gt;tabPage1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="groupBoxAdmFisc.Location" type="System.Drawing.Point, System.Drawing">
-    <value>362, 99</value>
-  </data>
-  <data name="chkBoxExtrairPlanej.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="&gt;&gt;btnGomnetUploadProcurar.Parent" xml:space="preserve">
-    <value>groupBoxGomnetUploadInputArquivo</value>
-  </data>
-  <data name="&gt;&gt;chkFiscMA.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="groupBoxGomnetUploadInputArquivo.Size" type="System.Drawing.Size, System.Drawing">
-    <value>701, 130</value>
-  </data>
-  <data name="chkBoxStatusSob.Location" type="System.Drawing.Point, System.Drawing">
-    <value>15, 34</value>
-  </data>
-  <data name="&gt;&gt;btnFiscExecutar.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;groupBox1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="chkBoxMovimentar.Text" xml:space="preserve">
-    <value>Movimentar "Em Execução"</value>
-  </data>
-  <data name="chkBoxStatusFisc.Location" type="System.Drawing.Point, System.Drawing">
-    <value>10, 35</value>
-  </data>
-  <data name="btnGomBaseExecutar.Size" type="System.Drawing.Size, System.Drawing">
-    <value>106, 35</value>
-  </data>
-  <data name="&gt;&gt;groupBoxArquivoGomnet.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;tabControl1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TabControl, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;chkBoxDataFisc.Parent" xml:space="preserve">
-    <value>groupBoxFiscalizacao</value>
-  </data>
-  <data name="btnGomnetUploadProcurar.Size" type="System.Drawing.Size, System.Drawing">
-    <value>118, 34</value>
-  </data>
-  <data name="&gt;&gt;$this.Name" xml:space="preserve">
-    <value>FormPrincipal</value>
-  </data>
-  <data name="groupBoxProgramacao.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Segoe UI, 10.18182pt</value>
-  </data>
-  <data name="&gt;&gt;chkBoxStatusFisc.Parent" xml:space="preserve">
-    <value>groupBoxFiscalizacao</value>
-  </data>
-  <data name="&gt;&gt;groupBoxPlanejamentoGeral.Parent" xml:space="preserve">
-    <value>groupBox2</value>
-  </data>
-  <data name="&gt;&gt;chkBoxEnergizar.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="tabPageFaturamento.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;chkBoxStatusFisc.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;chkBoxStatusSob.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="chkBoxStatusFisc.Text" xml:space="preserve">
-    <value>Extrair Status Fiscalização</value>
-  </data>
-  <data name="textBoxArquivoGombase.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;groupBoxFiscalizacao.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="btnGomnetUploadEnviarArquivos.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="groupBoxGomnetUpload.Size" type="System.Drawing.Size, System.Drawing">
-    <value>711, 162</value>
-  </data>
-  <data name="checkBox1.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="&gt;&gt;chkBoxExtrairAPR.Parent" xml:space="preserve">
-    <value>groupBoxArquivos</value>
-  </data>
-  <data name="&gt;&gt;chkBoxStatusSob.Name" xml:space="preserve">
-    <value>chkBoxStatusSob</value>
-  </data>
-  <data name="chkBoxExtrairOrcamento.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="textBoxArquivoGomnetAdm.Size" type="System.Drawing.Size, System.Drawing">
-    <value>555, 26</value>
-  </data>
-  <data name="chkBoxExtrairSGD.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="checkBox1.Text" xml:space="preserve">
-    <value>Acréscimo de Materiais</value>
-  </data>
-  <data name="chkBoxEnergizar.Location" type="System.Drawing.Point, System.Drawing">
-    <value>15, 123</value>
-  </data>
-  <data name="&gt;&gt;groupBoxPlanejamentoGeral.Name" xml:space="preserve">
-    <value>groupBoxPlanejamentoGeral</value>
-  </data>
-  <data name="btnGomnetUploadEnviarArquivos.Size" type="System.Drawing.Size, System.Drawing">
-    <value>146, 35</value>
   </data>
   <data name="&gt;&gt;chkBoxExtrairNTrab.Type" xml:space="preserve">
     <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;tabPageFaturamento.Parent" xml:space="preserve">
-    <value>tabControlObra</value>
+  <data name="&gt;&gt;chkBoxVincSup.Parent" xml:space="preserve">
+    <value>groupBoxProgramacao</value>
   </data>
-  <data name="&gt;&gt;chkBoxCriarPI.ZOrder" xml:space="preserve">
-    <value>0</value>
+  <data name="&gt;&gt;chkBoxFiscMO.ZOrder" xml:space="preserve">
+    <value>3</value>
   </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="btnAdmExecutar.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Bottom, Left, Right</value>
-  </data>
-  <data name="&gt;&gt;chkBoxExtrairSGD.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="chkBoxExtrairAPR.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 65</value>
-  </data>
-  <data name="tabControlObra.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 0</value>
-  </data>
-  <data name="btnFiscExecutar.Text" xml:space="preserve">
-    <value>Executar</value>
-  </data>
-  <data name="tabPage2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 24</value>
-  </data>
-  <data name="&gt;&gt;chkBoxCriarPI.Name" xml:space="preserve">
-    <value>chkBoxCriarPI</value>
-  </data>
-  <data name="&gt;&gt;groupBoxFiscalizacao.Parent" xml:space="preserve">
-    <value>groupBoxGomnet</value>
-  </data>
-  <data name="&gt;&gt;groupBox1.Name" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="panel1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 0</value>
-  </data>
-  <data name="chkBoxFiscMO.Text" xml:space="preserve">
-    <value>Fiscalizar Mão de Obra</value>
+  <data name="&gt;&gt;btnAdmExecutar.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;btnGombaseProcurar.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
-  <data name="&gt;&gt;tabControl1.Parent" xml:space="preserve">
-    <value>panel1</value>
+  <data name="&gt;&gt;btnGomnetUploadProcurar.Parent" xml:space="preserve">
+    <value>groupBoxGomnetUploadInputArquivo</value>
   </data>
-  <data name="tabPage2.Text" xml:space="preserve">
-    <value>tabPage2</value>
-  </data>
-  <data name="textBoxArquivoGombase.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 26</value>
-  </data>
-  <data name="&gt;&gt;groupBoxGomnetUploadInputArquivo.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="groupBoxProgramacao.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="chkBoxExtrairPlanej.Size" type="System.Drawing.Size, System.Drawing">
-    <value>165, 24</value>
-  </data>
-  <data name="&gt;&gt;chkFiscMA.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btnGomnetUploadEnviarArquivos.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;tabPageFaturamento.Name" xml:space="preserve">
-    <value>tabPageFaturamento</value>
-  </data>
-  <data name="&gt;&gt;btnProgExecutar.Parent" xml:space="preserve">
-    <value>groupBoxProgramacao</value>
-  </data>
-  <data name="&gt;&gt;btnGomBaseExecutar.Parent" xml:space="preserve">
-    <value>groupBoxGombase</value>
-  </data>
-  <data name="btnPlanejGeralExecutar.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="btnGomBaseExecutar.Location" type="System.Drawing.Point, System.Drawing">
-    <value>109, 182</value>
-  </data>
-  <data name="&gt;&gt;groupBoxArquivos.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="groupBoxGombase.Text" xml:space="preserve">
-    <value>GOMBASE</value>
-  </data>
-  <data name="&gt;&gt;chkBoxFiscMO.Parent" xml:space="preserve">
-    <value>groupBoxFiscalizacao</value>
-  </data>
-  <data name="groupBoxArquivos.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;btnGomnetUploadProcurar.Name" xml:space="preserve">
-    <value>btnGomnetUploadProcurar</value>
-  </data>
-  <data name="tabPage1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 24</value>
-  </data>
-  <data name="&gt;&gt;chkBoxCriarPI.Parent" xml:space="preserve">
-    <value>groupBox2</value>
-  </data>
-  <data name="&gt;&gt;btnArquivoGomnet.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="tabControlObra.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="groupBoxProgramacao.Text" xml:space="preserve">
-    <value>Programação / Energização:</value>
-  </data>
-  <data name="groupBox1.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;panel1.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="groupBoxGomnetUploadInputArquivo.Text" xml:space="preserve">
-    <value>Diretório raiz:</value>
-  </data>
-  <data name="chkBoxCriarPI.Location" type="System.Drawing.Point, System.Drawing">
-    <value>10, 148</value>
-  </data>
-  <data name="btnGombaseProcurar.Text" xml:space="preserve">
-    <value>Procurar...</value>
-  </data>
-  <data name="&gt;&gt;btnAdmExecutar.Parent" xml:space="preserve">
-    <value>groupBoxAdmFisc</value>
-  </data>
-  <data name="&gt;&gt;groupBoxAdmFisc.Name" xml:space="preserve">
-    <value>groupBoxAdmFisc</value>
-  </data>
-  <data name="&gt;&gt;btnGomnetUploadProcurar.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="btnArquivoGomnet.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Segoe UI, 10.18182pt</value>
-  </data>
-  <data name="&gt;&gt;tabPageFaturamento.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;chkBoxMovimentar.Parent" xml:space="preserve">
-    <value>groupBoxProgramacao</value>
-  </data>
-  <data name="&gt;&gt;groupBoxProgramacao.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="tabControl1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Fill</value>
-  </data>
-  <data name="&gt;&gt;groupBoxFiscalizacao.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="btnArquivoGomnet.Text" xml:space="preserve">
-    <value>Procurar...</value>
-  </data>
-  <data name="&gt;&gt;btnGomnetUploadEnviarArquivos.ZOrder" xml:space="preserve">
-    <value>0</value>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="btnArquivoGomnet.Location" type="System.Drawing.Point, System.Drawing">
+    <value>567, 22</value>
   </data>
   <data name="groupBoxArquivoGomnet.Text" xml:space="preserve">
     <value>Base de dados:</value>
   </data>
-  <data name="chkBoxEnergizar.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
+  <data name="chkFiscMA.Size" type="System.Drawing.Size, System.Drawing">
+    <value>147, 24</value>
   </data>
-  <data name="groupBoxArquivoGomnet.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Segoe UI, 10.18182pt</value>
+  <data name="tabPage1.Text" xml:space="preserve">
+    <value>tabPage1</value>
   </data>
-  <data name="&gt;&gt;chkBoxExtrairAPR.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="groupBoxGombase.Size" type="System.Drawing.Size, System.Drawing">
+    <value>349, 234</value>
   </data>
-  <data name="&gt;&gt;groupBoxProgramacao.Parent" xml:space="preserve">
-    <value>groupBoxGomnet</value>
+  <data name="&gt;&gt;btnGombaseProcurar.Name" xml:space="preserve">
+    <value>btnGombaseProcurar</value>
   </data>
-  <data name="groupBoxArquivoGomnet.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 29</value>
-  </data>
-  <data name="&gt;&gt;btnArquivosExecutar.Parent" xml:space="preserve">
+  <data name="&gt;&gt;chkBoxExtrairOrcamento.Parent" xml:space="preserve">
     <value>groupBoxArquivos</value>
   </data>
-  <data name="panel1.TabIndex" type="System.Int32, mscorlib">
+  <data name="&gt;&gt;chkBoxStatusSob.Parent" xml:space="preserve">
+    <value>groupBoxAdmFisc</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>746, 1060</value>
+  </data>
+  <data name="chkBoxExtrairSGD.Text" xml:space="preserve">
+    <value>Extrair SGD</value>
+  </data>
+  <data name="&gt;&gt;chkBoxCriarPI.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
-  <data name="chkBoxVistoriar.TabIndex" type="System.Int32, mscorlib">
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>7, 15</value>
+  </data>
+  <data name="&gt;&gt;tabControl1.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="tabControlObra.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="groupBoxGomnet.Size" type="System.Drawing.Size, System.Drawing">
+    <value>713, 610</value>
+  </data>
+  <data name="groupBoxGomnetUpload.Text" xml:space="preserve">
+    <value>GOMNET - Upload</value>
+  </data>
+  <data name="btnArquivoGomnet.Text" xml:space="preserve">
+    <value>Procurar...</value>
+  </data>
+  <data name="chkBoxVincSup.Location" type="System.Drawing.Point, System.Drawing">
+    <value>15, 33</value>
+  </data>
+  <data name="&gt;&gt;checkBox1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="chkBoxExtrairOrcamento.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;chkBoxExtrairPlanej.Name" xml:space="preserve">
+    <value>chkBoxExtrairPlanej</value>
+  </data>
+  <data name="&gt;&gt;btnAdmExecutar.Parent" xml:space="preserve">
+    <value>groupBoxAdmFisc</value>
+  </data>
+  <data name="chkBoxVistoriar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>83, 24</value>
+  </data>
+  <data name="&gt;&gt;textBoxArquivoGomnetAdm.Parent" xml:space="preserve">
+    <value>groupBoxArquivoGomnet</value>
+  </data>
+  <data name="chkBoxExtrairPlanej.Text" xml:space="preserve">
+    <value>Extrair Planejamento</value>
+  </data>
+  <data name="btnArquivosExecutar.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;btnPlanejamentoGeralProcurar.Parent" xml:space="preserve">
+    <value>groupBoxPlanejamentoGeral</value>
+  </data>
+  <data name="&gt;&gt;panel1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="textBoxArquivoGomnetUpload.Size" type="System.Drawing.Size, System.Drawing">
+    <value>549, 27</value>
+  </data>
+  <data name="btnProgExecutar.Text" xml:space="preserve">
+    <value>Executar</value>
+  </data>
+  <data name="&gt;&gt;chkBoxStatusSob.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnArquivosExecutar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>106, 35</value>
+  </data>
+  <data name="chkBoxVincSup.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="btnPlanejGeralExecutar.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="btnPlanejGeralExecutar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>129, 182</value>
+  </data>
+  <data name="btnFiscExecutar.Text" xml:space="preserve">
+    <value>Executar</value>
+  </data>
+  <data name="chkBoxStatusFisc.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="textBoxArquivoGombase.Size" type="System.Drawing.Size, System.Drawing">
+    <value>220, 27</value>
+  </data>
+  <data name="chkBoxVistoriar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>15, 63</value>
+  </data>
+  <data name="groupBoxPlanejamentoGeral.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 26</value>
+  </data>
+  <data name="&gt;&gt;textBoxArquivoGomnetAdm.Name" xml:space="preserve">
+    <value>textBoxArquivoGomnetAdm</value>
+  </data>
+  <data name="btnGombaseProcurar.Text" xml:space="preserve">
+    <value>Procurar...</value>
+  </data>
+  <data name="groupBoxGomnet.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 6</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="tabPage2.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="&gt;&gt;groupBoxProgramacao.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="chkBoxFiscMO.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 95</value>
+  </data>
+  <data name="&gt;&gt;chkBoxEnergizar.Parent" xml:space="preserve">
+    <value>groupBoxProgramacao</value>
+  </data>
+  <data name="btnGomnetUploadProcurar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>118, 34</value>
+  </data>
+  <data name="&gt;&gt;chkBoxExtrairSGD.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;btnAdmExecutar.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="groupBoxProgramacao.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;groupBoxArquivoGomnet.Parent" xml:space="preserve">
+    <value>groupBoxGomnet</value>
+  </data>
+  <data name="&gt;&gt;groupBoxPlanejamentoGeral.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="panel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="&gt;&gt;groupBoxProgramacao.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="chkBoxMovimentar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>211, 24</value>
+  </data>
+  <data name="&gt;&gt;btnGomnetUploadProcurar.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;btnGomBaseExecutar.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;groupBoxGomnetUpload.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnProgExecutar.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBoxArquivos.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBoxArquivos.Parent" xml:space="preserve">
+    <value>groupBoxGomnet</value>
+  </data>
+  <data name="btnGomnetUploadProcurar.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="btnGomBaseExecutar.Text" xml:space="preserve">
+    <value>Executar</value>
+  </data>
+  <data name="chkBoxVincSup.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
   </data>
   <data name="&gt;&gt;chkFiscMA.Parent" xml:space="preserve">
     <value>groupBoxFiscalizacao</value>
   </data>
-  <data name="groupBoxGombase.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Segoe UI, 10.909091pt</value>
-  </data>
-  <data name="&gt;&gt;groupBoxProgramacao.Name" xml:space="preserve">
-    <value>groupBoxProgramacao</value>
-  </data>
-  <data name="chkBoxDataFisc.Size" type="System.Drawing.Size, System.Drawing">
-    <value>189, 24</value>
-  </data>
-  <data name="&gt;&gt;groupBoxArquivos.Parent" xml:space="preserve">
-    <value>groupBoxGomnet</value>
-  </data>
-  <data name="chkBoxExtrairAPR.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="btnAdmExecutar.Text" xml:space="preserve">
-    <value>Executar</value>
-  </data>
-  <data name="&gt;&gt;btnPlanejGeralExecutar.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;chkBoxFiscMO.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="tabPageManutencao.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 27</value>
-  </data>
-  <data name="btnAdmExecutar.Location" type="System.Drawing.Point, System.Drawing">
-    <value>129, 179</value>
-  </data>
-  <data name="tabPage1.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="groupBoxFiscalizacao.Size" type="System.Drawing.Size, System.Drawing">
-    <value>345, 237</value>
-  </data>
-  <data name="btnPlanejamentoGeralProcurar.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="btnArquivoGomnet.Location" type="System.Drawing.Point, System.Drawing">
-    <value>567, 22</value>
-  </data>
-  <data name="&gt;&gt;btnAdmExecutar.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="chkBoxDataFisc.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="chkBoxExtrairPlanej.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="chkFiscMA.Text" xml:space="preserve">
-    <value>Fiscalizar Material</value>
-  </data>
-  <data name="&gt;&gt;textBoxArquivoGomnetUpload.Parent" xml:space="preserve">
-    <value>groupBoxGomnetUploadInputArquivo</value>
-  </data>
-  <data name="btnGomBaseExecutar.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="chkBoxStatusSob.Text" xml:space="preserve">
-    <value>Extrair Status Sob</value>
-  </data>
-  <data name="&gt;&gt;groupBoxGombase.Name" xml:space="preserve">
+  <data name="&gt;&gt;btnGomBaseExecutar.Parent" xml:space="preserve">
     <value>groupBoxGombase</value>
   </data>
-  <data name="groupBoxFiscalizacao.Text" xml:space="preserve">
-    <value>Fiscalização:</value>
-  </data>
-  <data name="chkBoxExtrairSGD.Size" type="System.Drawing.Size, System.Drawing">
-    <value>103, 24</value>
-  </data>
-  <data name="&gt;&gt;chkBoxFiscMO.Name" xml:space="preserve">
-    <value>chkBoxFiscMO</value>
-  </data>
-  <data name="&gt;&gt;chkBoxExtrairOrcamento.Name" xml:space="preserve">
-    <value>chkBoxExtrairOrcamento</value>
-  </data>
-  <data name="groupBox2.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;chkBoxVistoriar.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;groupBoxGomnetUploadInputArquivo.Name" xml:space="preserve">
-    <value>groupBoxGomnetUploadInputArquivo</value>
-  </data>
-  <data name="&gt;&gt;textBoxArquivoGombase.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;groupBoxGombase.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;chkBoxVincSup.Parent" xml:space="preserve">
-    <value>groupBoxProgramacao</value>
-  </data>
-  <data name="&gt;&gt;chkBoxCriarPlanejamentos.Parent" xml:space="preserve">
-    <value>groupBox2</value>
-  </data>
-  <data name="&gt;&gt;chkBoxEnergizar.Name" xml:space="preserve">
-    <value>chkBoxEnergizar</value>
-  </data>
-  <data name="&gt;&gt;btnPlanejGeralExecutar.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>746, 1060</value>
-  </data>
-  <data name="&gt;&gt;btnArquivoGomnet.Name" xml:space="preserve">
-    <value>btnArquivoGomnet</value>
-  </data>
-  <data name="btnProgExecutar.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;textBoxArquivoGomnetAdm.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="tabControl1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 0</value>
-  </data>
-  <data name="groupBox2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>374, 790</value>
-  </data>
-  <data name="&gt;&gt;groupBoxArquivos.Name" xml:space="preserve">
-    <value>groupBoxArquivos</value>
-  </data>
-  <data name="btnArquivoGomnet.Size" type="System.Drawing.Size, System.Drawing">
-    <value>118, 34</value>
-  </data>
-  <data name="chkBoxExtrairAPR.Text" xml:space="preserve">
-    <value>Extrair APR</value>
-  </data>
-  <data name="&gt;&gt;chkBoxCriarPlanejamentos.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="btnGomnetUploadProcurar.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;groupBoxGomnet.Name" xml:space="preserve">
-    <value>groupBoxGomnet</value>
-  </data>
-  <data name="&gt;&gt;groupBoxAdmFisc.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btnAdmExecutar.Name" xml:space="preserve">
-    <value>btnAdmExecutar</value>
-  </data>
-  <data name="&gt;&gt;groupBoxAdmFisc.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;btnGomBaseExecutar.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="groupBoxGomnet.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="chkBoxExtrairAPR.Size" type="System.Drawing.Size, System.Drawing">
-    <value>101, 24</value>
-  </data>
-  <data name="textBoxArquivoGomnetUpload.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="tabPageManutencao.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;chkBoxExtrairSGD.Parent" xml:space="preserve">
-    <value>groupBoxArquivos</value>
-  </data>
-  <data name="groupBoxGomnetUpload.Text" xml:space="preserve">
-    <value>GOMNET - Upload</value>
-  </data>
-  <data name="&gt;&gt;btnGombaseProcurar.Name" xml:space="preserve">
-    <value>btnGombaseProcurar</value>
-  </data>
-  <data name="btnGomnetUploadEnviarArquivos.Text" xml:space="preserve">
-    <value>Enviar arquivos</value>
-  </data>
-  <data name="btnGomnetUploadEnviarArquivos.Location" type="System.Drawing.Point, System.Drawing">
-    <value>281, 70</value>
-  </data>
-  <data name="&gt;&gt;chkBoxVincSup.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="groupBox1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 26</value>
-  </data>
-  <data name="&gt;&gt;groupBoxGomnetUpload.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="groupBoxGombase.Location" type="System.Drawing.Point, System.Drawing">
-    <value>8, 790</value>
-  </data>
-  <data name="&gt;&gt;chkBoxEnergizar.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;btnArquivoGomnet.Parent" xml:space="preserve">
-    <value>groupBoxArquivoGomnet</value>
-  </data>
-  <data name="&gt;&gt;chkBoxVistoriar.Name" xml:space="preserve">
-    <value>chkBoxVistoriar</value>
-  </data>
-  <data name="groupBoxFiscalizacao.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
-  </data>
-  <data name="groupBoxGomnetUploadInputArquivo.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 26</value>
-  </data>
-  <data name="groupBoxGomnet.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 6</value>
-  </data>
-  <data name="btnGomBaseExecutar.Text" xml:space="preserve">
-    <value>Executar</value>
-  </data>
-  <data name="&gt;&gt;chkBoxMovimentar.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;chkBoxCriarPlanejamentos.Name" xml:space="preserve">
-    <value>chkBoxCriarPlanejamentos</value>
-  </data>
-  <data name="groupBoxGombase.Size" type="System.Drawing.Size, System.Drawing">
-    <value>349, 234</value>
-  </data>
-  <data name="chkBoxExtrairPlanej.Text" xml:space="preserve">
-    <value>Extrair Planejamento</value>
-  </data>
-  <data name="&gt;&gt;textBoxArquivoPlanejGeral.Parent" xml:space="preserve">
-    <value>groupBoxPlanejamentoGeral</value>
-  </data>
-  <data name="textBoxArquivoGombase.Size" type="System.Drawing.Size, System.Drawing">
-    <value>220, 27</value>
-  </data>
-  <data name="&gt;&gt;checkBox1.Parent" xml:space="preserve">
-    <value>groupBoxGombase</value>
-  </data>
-  <data name="&gt;&gt;chkBoxCriarPlanejamentos.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;chkBoxStatusSob.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;tabControlObra.Name" xml:space="preserve">
-    <value>tabControlObra</value>
-  </data>
-  <data name="groupBoxGomnetUploadInputArquivo.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;btnFiscExecutar.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;tabControlObra.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;chkBoxExtrairPlanej.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="btnAdmExecutar.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;groupBoxArquivoGomnet.Name" xml:space="preserve">
-    <value>groupBoxArquivoGomnet</value>
-  </data>
-  <data name="&gt;&gt;groupBoxGomnetUpload.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="groupBox1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>339, 73</value>
-  </data>
-  <data name="checkBox1.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
+  <data name="chkBoxEnergizar.Text" xml:space="preserve">
+    <value>Energizar</value>
   </data>
   <data name="chkBoxDataFisc.Location" type="System.Drawing.Point, System.Drawing">
     <value>10, 65</value>
   </data>
-  <data name="&gt;&gt;btnGomBaseExecutar.Name" xml:space="preserve">
-    <value>btnGomBaseExecutar</value>
-  </data>
-  <data name="&gt;&gt;chkBoxExtrairNTrab.Parent" xml:space="preserve">
-    <value>groupBoxAdmFisc</value>
-  </data>
-  <data name="btnGombaseProcurar.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="panel1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>746, 1060</value>
-  </data>
-  <data name="chkBoxVistoriar.Location" type="System.Drawing.Point, System.Drawing">
-    <value>15, 63</value>
-  </data>
-  <data name="&gt;&gt;checkBox1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="chkBoxDataFisc.Text" xml:space="preserve">
-    <value>Extrair Data Fiscalização</value>
-  </data>
-  <data name="chkBoxCriarPlanejamentos.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;chkBoxExtrairSGD.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;textBoxArquivoPlanejGeral.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;groupBox2.ZOrder" xml:space="preserve">
+  <data name="chkBoxExtrairAPR.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
   </data>
-  <data name="&gt;&gt;tabPage2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="chkBoxFiscMO.Size" type="System.Drawing.Size, System.Drawing">
-    <value>180, 24</value>
-  </data>
-  <data name="&gt;&gt;groupBoxAdmFisc.Parent" xml:space="preserve">
-    <value>groupBoxGomnet</value>
-  </data>
-  <data name="chkBoxVistoriar.Text" xml:space="preserve">
-    <value>Vistoriar</value>
-  </data>
-  <data name="chkBoxVincSup.Location" type="System.Drawing.Point, System.Drawing">
-    <value>15, 33</value>
-  </data>
-  <data name="&gt;&gt;chkBoxStatusFisc.Name" xml:space="preserve">
-    <value>chkBoxStatusFisc</value>
-  </data>
-  <data name="groupBoxGomnet.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Segoe UI, 10.90909pt</value>
-  </data>
-  <data name="groupBoxProgramacao.Size" type="System.Drawing.Size, System.Drawing">
-    <value>345, 237</value>
-  </data>
-  <data name="&gt;&gt;btnPlanejamentoGeralProcurar.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="chkBoxExtrairSGD.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 35</value>
-  </data>
-  <data name="&gt;&gt;btnGomnetUploadEnviarArquivos.Name" xml:space="preserve">
-    <value>btnGomnetUploadEnviarArquivos</value>
-  </data>
-  <data name="&gt;&gt;panel1.Name" xml:space="preserve">
-    <value>panel1</value>
-  </data>
-  <data name="chkBoxVincSup.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="groupBox1.Text" xml:space="preserve">
-    <value>Base de dados:</value>
-  </data>
-  <data name="&gt;&gt;chkBoxExtrairAPR.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="btnProgExecutar.Text" xml:space="preserve">
-    <value>Executar</value>
-  </data>
-  <data name="&gt;&gt;groupBox2.Parent" xml:space="preserve">
-    <value>tabPage1</value>
-  </data>
-  <data name="btnArquivosExecutar.Text" xml:space="preserve">
-    <value>Executar</value>
+  <data name="&gt;&gt;tabPage2.Name" xml:space="preserve">
+    <value>tabPage2</value>
   </data>
   <data name="textBoxArquivoGomnetAdm.Location" type="System.Drawing.Point, System.Drawing">
     <value>6, 26</value>
   </data>
-  <data name="&gt;&gt;groupBoxGomnet.ZOrder" xml:space="preserve">
-    <value>3</value>
+  <data name="groupBoxGomnet.Text" xml:space="preserve">
+    <value>GOMNET / GOMMOBILE</value>
   </data>
-  <data name="btnArquivosExecutar.TabIndex" type="System.Int32, mscorlib">
+  <data name="&gt;&gt;textBoxArquivoGombase.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;textBoxArquivoGombase.Name" xml:space="preserve">
+    <value>textBoxArquivoGombase</value>
+  </data>
+  <data name="tabPageFaturamento.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;btnFiscExecutar.Parent" xml:space="preserve">
+    <value>groupBoxFiscalizacao</value>
+  </data>
+  <data name="&gt;&gt;chkBoxMovimentar.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;chkBoxExtrairSGD.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tabPageFaturamento.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="groupBoxArquivoGomnet.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 29</value>
+  </data>
+  <data name="chkBoxDataFisc.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="chkBoxEnergizar.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="groupBoxGomnetUploadInputArquivo.Size" type="System.Drawing.Size, System.Drawing">
+    <value>701, 130</value>
+  </data>
+  <data name="chkBoxDataFisc.Text" xml:space="preserve">
+    <value>Extrair Data Fiscalização</value>
+  </data>
+  <data name="groupBoxAdmFisc.Location" type="System.Drawing.Point, System.Drawing">
+    <value>362, 99</value>
+  </data>
+  <data name="&gt;&gt;textBoxArquivoGomnetAdm.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
-  <data name="&gt;&gt;chkBoxExtrairNTrab.ZOrder" xml:space="preserve">
+  <data name="chkBoxVistoriar.Text" xml:space="preserve">
+    <value>Vistoriar</value>
+  </data>
+  <data name="&gt;&gt;chkBoxStatusFisc.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnFiscExecutar.Name" xml:space="preserve">
+    <value>btnFiscExecutar</value>
+  </data>
+  <data name="&gt;&gt;chkFiscMA.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
-  <data name="&gt;&gt;checkBox1.ZOrder" xml:space="preserve">
+  <data name="chkBoxEnergizar.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
   </data>
-  <data name="chkBoxExtrairPlanej.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 95</value>
+  <data name="checkBox1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
   </data>
-  <data name="&gt;&gt;groupBoxProgramacao.ZOrder" xml:space="preserve">
-    <value>4</value>
+  <data name="chkBoxVincSup.Text" xml:space="preserve">
+    <value>Vincular Supervisor</value>
   </data>
-  <data name="chkBoxExtrairOrcamento.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
+  <data name="&gt;&gt;btnGomBaseExecutar.Name" xml:space="preserve">
+    <value>btnGomBaseExecutar</value>
   </data>
-  <data name="&gt;&gt;chkBoxDataFisc.Name" xml:space="preserve">
-    <value>chkBoxDataFisc</value>
+  <data name="&gt;&gt;chkBoxEnergizar.Name" xml:space="preserve">
+    <value>chkBoxEnergizar</value>
   </data>
-  <data name="&gt;&gt;btnArquivosExecutar.Name" xml:space="preserve">
-    <value>btnArquivosExecutar</value>
+  <data name="btnAdmExecutar.Text" xml:space="preserve">
+    <value>Executar</value>
   </data>
-  <data name="chkBoxVistoriar.Size" type="System.Drawing.Size, System.Drawing">
-    <value>83, 24</value>
+  <data name="btnPlanejamentoGeralProcurar.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
   </data>
-  <data name="textBoxArquivoPlanejGeral.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
+  <data name="groupBoxGomnetUpload.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
   </data>
-  <data name="&gt;&gt;btnGombaseProcurar.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;chkBoxCriarPlanejamentos.Parent" xml:space="preserve">
+    <value>groupBox2</value>
   </data>
-  <data name="&gt;&gt;btnArquivosExecutar.ZOrder" xml:space="preserve">
+  <data name="btnAdmExecutar.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="btnPlanejamentoGeralProcurar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>232, 24</value>
+  </data>
+  <data name="chkBoxMovimentar.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
   </data>
   <data name="&gt;&gt;tabPage1.Name" xml:space="preserve">
     <value>tabPage1</value>
   </data>
-  <data name="&gt;&gt;btnGombaseProcurar.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="chkFiscMA.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="groupBoxPlanejamentoGeral.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 26</value>
-  </data>
-  <data name="&gt;&gt;chkBoxDataFisc.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="chkBoxExtrairOrcamento.Text" xml:space="preserve">
-    <value>Extrair Orçamento</value>
-  </data>
-  <data name="&gt;&gt;btnAdmExecutar.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;textBoxArquivoGomnetUpload.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;chkBoxStatusSob.Parent" xml:space="preserve">
-    <value>groupBoxAdmFisc</value>
-  </data>
-  <data name="btnGombaseProcurar.Location" type="System.Drawing.Point, System.Drawing">
-    <value>232, 21</value>
-  </data>
   <data name="groupBoxArquivos.Location" type="System.Drawing.Point, System.Drawing">
     <value>6, 342</value>
   </data>
-  <data name="&gt;&gt;groupBoxArquivos.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;chkBoxExtrairAPR.Name" xml:space="preserve">
-    <value>chkBoxExtrairAPR</value>
-  </data>
-  <data name="btnFiscExecutar.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="chkBoxExtrairNTrab.Size" type="System.Drawing.Size, System.Drawing">
-    <value>174, 24</value>
-  </data>
-  <data name="btnProgExecutar.Size" type="System.Drawing.Size, System.Drawing">
-    <value>106, 35</value>
-  </data>
-  <data name="&gt;&gt;btnArquivoGomnet.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;textBoxArquivoGombase.Parent" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="tabPage2.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 3, 3, 3</value>
-  </data>
-  <data name="&gt;&gt;chkBoxExtrairPlanej.Name" xml:space="preserve">
-    <value>chkBoxExtrairPlanej</value>
-  </data>
-  <data name="&gt;&gt;textBoxArquivoGomnetAdm.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;chkBoxDataFisc.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="tabPage2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>738, 1032</value>
-  </data>
-  <data name="btnArquivosExecutar.Location" type="System.Drawing.Point, System.Drawing">
-    <value>105, 177</value>
-  </data>
-  <data name="$this.Text" xml:space="preserve">
-    <value>SGI - Eletromecânica do Maranhão</value>
-  </data>
-  <data name="&gt;&gt;btnPlanejGeralExecutar.Name" xml:space="preserve">
-    <value>btnPlanejGeralExecutar</value>
-  </data>
-  <data name="groupBoxGomnet.Text" xml:space="preserve">
-    <value>GOMNET / GOMMOBILE</value>
-  </data>
-  <data name="groupBoxGombase.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;tabPageManutencao.Parent" xml:space="preserve">
-    <value>tabControlObra</value>
-  </data>
-  <data name="&gt;&gt;tabControlObra.Parent" xml:space="preserve">
-    <value>panel1</value>
-  </data>
-  <data name="chkBoxEnergizar.Text" xml:space="preserve">
-    <value>Energizar</value>
-  </data>
-  <data name="&gt;&gt;tabPageManutencao.Name" xml:space="preserve">
-    <value>tabPageManutencao</value>
-  </data>
-  <data name="chkBoxExtrairNTrab.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="&gt;&gt;panel1.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;btnFiscExecutar.Name" xml:space="preserve">
-    <value>btnFiscExecutar</value>
-  </data>
-  <data name="chkBoxMovimentar.Location" type="System.Drawing.Point, System.Drawing">
-    <value>15, 93</value>
-  </data>
-  <data name="&gt;&gt;btnProgExecutar.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="groupBoxArquivoGomnet.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="tabPage1.Text" xml:space="preserve">
-    <value>tabPage1</value>
-  </data>
-  <data name="groupBoxAdmFisc.Text" xml:space="preserve">
-    <value>Administrativo:</value>
-  </data>
-  <data name="groupBoxPlanejamentoGeral.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;groupBoxGombase.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="btnGomnetUploadEnviarArquivos.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>None</value>
-  </data>
-  <data name="chkBoxExtrairOrcamento.Size" type="System.Drawing.Size, System.Drawing">
-    <value>148, 24</value>
-  </data>
-  <data name="chkBoxCriarPI.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
-  </data>
-  <data name="chkBoxExtrairOrcamento.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 125</value>
-  </data>
-  <data name="&gt;&gt;chkBoxVincSup.Name" xml:space="preserve">
-    <value>chkBoxVincSup</value>
-  </data>
-  <data name="textBoxArquivoGomnetUpload.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 26</value>
-  </data>
-  <data name="groupBoxGomnetUpload.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Segoe UI, 10.909091pt</value>
-  </data>
-  <data name="chkBoxExtrairSGD.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;chkBoxEnergizar.Parent" xml:space="preserve">
-    <value>groupBoxProgramacao</value>
-  </data>
-  <data name="chkBoxVincSup.Size" type="System.Drawing.Size, System.Drawing">
-    <value>154, 24</value>
-  </data>
-  <data name="&gt;&gt;tabPage2.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;chkBoxExtrairPlanej.Parent" xml:space="preserve">
-    <value>groupBoxArquivos</value>
-  </data>
-  <data name="&gt;&gt;checkBox1.Name" xml:space="preserve">
-    <value>checkBox1</value>
-  </data>
-  <data name="groupBoxGomnetUpload.Location" type="System.Drawing.Point, System.Drawing">
-    <value>8, 622</value>
-  </data>
-  <data name="btnGomnetUploadProcurar.Location" type="System.Drawing.Point, System.Drawing">
-    <value>561, 22</value>
-  </data>
-  <data name="groupBoxAdmFisc.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="chkBoxExtrairAPR.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="&gt;&gt;tabPage2.Name" xml:space="preserve">
-    <value>tabPage2</value>
-  </data>
-  <data name="tabControl1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>746, 1060</value>
-  </data>
-  <data name="chkBoxStatusFisc.Size" type="System.Drawing.Size, System.Drawing">
-    <value>197, 24</value>
-  </data>
-  <data name="&gt;&gt;tabPageFaturamento.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="chkBoxCriarPlanejamentos.Location" type="System.Drawing.Point, System.Drawing">
-    <value>10, 118</value>
-  </data>
-  <data name="&gt;&gt;textBoxArquivoGomnetAdm.Parent" xml:space="preserve">
-    <value>groupBoxArquivoGomnet</value>
-  </data>
-  <data name="chkBoxFiscMO.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;groupBoxGomnet.Parent" xml:space="preserve">
-    <value>tabPage1</value>
-  </data>
-  <data name="&gt;&gt;textBoxArquivoPlanejGeral.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;groupBox2.Name" xml:space="preserve">
-    <value>groupBox2</value>
-  </data>
-  <data name="groupBoxFiscalizacao.Location" type="System.Drawing.Point, System.Drawing">
-    <value>362, 342</value>
-  </data>
-  <data name="&gt;&gt;groupBoxPlanejamentoGeral.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="chkBoxStatusFisc.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="&gt;&gt;btnGomnetUploadProcurar.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;tabPageManutencao.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;textBoxArquivoGombase.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btnGomBaseExecutar.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="btnArquivosExecutar.Size" type="System.Drawing.Size, System.Drawing">
-    <value>106, 35</value>
-  </data>
-  <data name="chkBoxExtrairSGD.Text" xml:space="preserve">
-    <value>Extrair SGD</value>
-  </data>
-  <data name="&gt;&gt;tabPageManutencao.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="panel1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Fill</value>
-  </data>
-  <data name="&gt;&gt;chkBoxExtrairOrcamento.Parent" xml:space="preserve">
-    <value>groupBoxArquivos</value>
-  </data>
-  <data name="chkBoxExtrairNTrab.Location" type="System.Drawing.Point, System.Drawing">
-    <value>15, 64</value>
-  </data>
-  <data name="&gt;&gt;groupBoxArquivoGomnet.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="chkBoxVincSup.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="tabPage2.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;textBoxArquivoPlanejGeral.Name" xml:space="preserve">
-    <value>textBoxArquivoPlanejGeral</value>
-  </data>
-  <data name="chkBoxFiscMO.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
+  <data name="chkBoxDataFisc.Size" type="System.Drawing.Size, System.Drawing">
+    <value>189, 24</value>
   </data>
   <data name="&gt;&gt;tabControl1.Name" xml:space="preserve">
     <value>tabControl1</value>
   </data>
-  <data name="&gt;&gt;groupBoxFiscalizacao.Name" xml:space="preserve">
-    <value>groupBoxFiscalizacao</value>
+  <data name="chkBoxExtrairSGD.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
   </data>
-  <data name="btnGombaseProcurar.Size" type="System.Drawing.Size, System.Drawing">
-    <value>101, 36</value>
-  </data>
-  <data name="chkBoxVincSup.Text" xml:space="preserve">
-    <value>Vincular Supervisor</value>
-  </data>
-  <data name="&gt;&gt;btnProgExecutar.Type" xml:space="preserve">
+  <data name="&gt;&gt;btnPlanejGeralExecutar.Type" xml:space="preserve">
     <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="btnAdmExecutar.Size" type="System.Drawing.Size, System.Drawing">
-    <value>101, 35</value>
-  </data>
-  <data name="btnProgExecutar.Location" type="System.Drawing.Point, System.Drawing">
-    <value>105, 178</value>
-  </data>
-  <data name="chkFiscMA.TabIndex" type="System.Int32, mscorlib">
+  <data name="&gt;&gt;groupBox2.ZOrder" xml:space="preserve">
     <value>0</value>
+  </data>
+  <data name="groupBoxArquivoGomnet.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 10.18182pt</value>
+  </data>
+  <data name="groupBox2.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="groupBoxProgramacao.Size" type="System.Drawing.Size, System.Drawing">
+    <value>345, 237</value>
+  </data>
+  <data name="&gt;&gt;chkBoxStatusFisc.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="btnGomBaseExecutar.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="checkBox1.Text" xml:space="preserve">
+    <value>Acréscimo de Materiais</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="panel1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="groupBox2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>374, 790</value>
+  </data>
+  <data name="btnArquivoGomnet.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;groupBoxGomnetUploadInputArquivo.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="tabPage1.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="btnGombaseProcurar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>232, 21</value>
+  </data>
+  <data name="&gt;&gt;chkBoxVistoriar.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="chkBoxMovimentar.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;chkBoxMovimentar.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBoxPlanejamentoGeral.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;tabPageManutencao.Name" xml:space="preserve">
+    <value>tabPageManutencao</value>
+  </data>
+  <data name="&gt;&gt;chkBoxEnergizar.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;btnGombaseProcurar.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="btnGomnetUploadEnviarArquivos.Text" xml:space="preserve">
+    <value>Enviar arquivos</value>
+  </data>
+  <data name="chkBoxExtrairAPR.Text" xml:space="preserve">
+    <value>Extrair APR</value>
+  </data>
+  <data name="chkBoxExtrairOrcamento.Text" xml:space="preserve">
+    <value>Extrair Orçamento</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;chkBoxExtrairAPR.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="groupBoxArquivos.Text" xml:space="preserve">
     <value>Arquivos:</value>
   </data>
-  <data name="chkBoxEnergizar.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Segoe UI Semibold, 10.181818pt, style=Bold</value>
+  <data name="&gt;&gt;chkBoxVistoriar.Name" xml:space="preserve">
+    <value>chkBoxVistoriar</value>
   </data>
-  <data name="btnFiscExecutar.Size" type="System.Drawing.Size, System.Drawing">
-    <value>106, 35</value>
-  </data>
-  <data name="&gt;&gt;tabPage2.Parent" xml:space="preserve">
-    <value>tabControl1</value>
-  </data>
-  <data name="chkFiscMA.Size" type="System.Drawing.Size, System.Drawing">
-    <value>147, 24</value>
-  </data>
-  <data name="&gt;&gt;tabControlObra.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TabControl, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;groupBox1.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="chkBoxStatusFisc.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="groupBoxArquivoGomnet.Size" type="System.Drawing.Size, System.Drawing">
-    <value>701, 64</value>
-  </data>
-  <data name="&gt;&gt;chkBoxFiscMO.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="textBoxArquivoGomnetAdm.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;btnPlanejGeralExecutar.Parent" xml:space="preserve">
-    <value>groupBox2</value>
-  </data>
-  <data name="chkBoxDataFisc.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;textBoxArquivoGomnetUpload.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;panel1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;groupBoxGomnetUploadInputArquivo.Parent" xml:space="preserve">
-    <value>groupBoxGomnetUpload</value>
-  </data>
-  <data name="&gt;&gt;textBoxArquivoGombase.Name" xml:space="preserve">
-    <value>textBoxArquivoGombase</value>
-  </data>
-  <data name="&gt;&gt;groupBoxGombase.Parent" xml:space="preserve">
-    <value>tabPage1</value>
-  </data>
-  <data name="&gt;&gt;groupBoxArquivoGomnet.Parent" xml:space="preserve">
-    <value>groupBoxGomnet</value>
+  <data name="&gt;&gt;chkBoxExtrairOrcamento.Name" xml:space="preserve">
+    <value>chkBoxExtrairOrcamento</value>
   </data>
   <data name="chkBoxStatusSob.Size" type="System.Drawing.Size, System.Drawing">
     <value>144, 24</value>
   </data>
-  <metadata name="$this.Language" type="System.Globalization.CultureInfo, System.Private.CoreLib, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
-    <value>pt-BR</value>
-  </metadata>
+  <data name="&gt;&gt;groupBoxGombase.Name" xml:space="preserve">
+    <value>groupBoxGombase</value>
+  </data>
+  <data name="&gt;&gt;groupBoxPlanejamentoGeral.Name" xml:space="preserve">
+    <value>groupBoxPlanejamentoGeral</value>
+  </data>
+  <data name="chkBoxEnergizar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>86, 23</value>
+  </data>
+  <data name="&gt;&gt;chkBoxExtrairNTrab.Name" xml:space="preserve">
+    <value>chkBoxExtrairNTrab</value>
+  </data>
+  <data name="tabPage2.Text" xml:space="preserve">
+    <value>tabPage2</value>
+  </data>
+  <data name="textBoxArquivoGomnetAdm.Size" type="System.Drawing.Size, System.Drawing">
+    <value>555, 26</value>
+  </data>
+  <data name="&gt;&gt;textBoxArquivoPlanejGeral.Name" xml:space="preserve">
+    <value>textBoxArquivoPlanejGeral</value>
+  </data>
+  <data name="&gt;&gt;groupBox2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tabPageManutencao.Parent" xml:space="preserve">
+    <value>tabControlObra</value>
+  </data>
+  <data name="&gt;&gt;tabControlObra.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btnGomnetUploadProcurar.Text" xml:space="preserve">
+    <value>Procurar...</value>
+  </data>
+  <data name="chkBoxExtrairOrcamento.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;btnGombaseProcurar.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;chkBoxCriarPlanejamentos.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="chkBoxExtrairAPR.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="chkBoxCriarPlanejamentos.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="groupBoxGombase.Text" xml:space="preserve">
+    <value>GOMBASE</value>
+  </data>
+  <data name="&gt;&gt;chkBoxCriarPI.Name" xml:space="preserve">
+    <value>chkBoxCriarPI</value>
+  </data>
+  <data name="chkFiscMA.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;chkBoxVistoriar.Parent" xml:space="preserve">
+    <value>groupBoxProgramacao</value>
+  </data>
+  <data name="&gt;&gt;tabPage1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="groupBoxProgramacao.Text" xml:space="preserve">
+    <value>Programação / Energização:</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>SGI - Eletromecânica do Maranhão</value>
+  </data>
+  <data name="btnAdmExecutar.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Bottom, Left, Right</value>
+  </data>
+  <data name="&gt;&gt;chkBoxCriarPlanejamentos.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;textBoxArquivoGomnetUpload.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="tabControl1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>746, 1060</value>
+  </data>
+  <data name="chkBoxFiscMO.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;chkBoxFiscMO.Parent" xml:space="preserve">
+    <value>groupBoxFiscalizacao</value>
+  </data>
+  <data name="chkBoxExtrairAPR.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 65</value>
+  </data>
+  <data name="&gt;&gt;btnProgExecutar.Parent" xml:space="preserve">
+    <value>groupBoxProgramacao</value>
+  </data>
+  <data name="btnArquivosExecutar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>105, 177</value>
+  </data>
+  <data name="tabControlObra.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;btnPlanejGeralExecutar.Name" xml:space="preserve">
+    <value>btnPlanejGeralExecutar</value>
+  </data>
+  <data name="chkBoxExtrairSGD.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="groupBoxGomnetUploadInputArquivo.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 26</value>
+  </data>
+  <data name="&gt;&gt;groupBoxGomnet.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;chkFiscMA.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="textBoxArquivoGomnetAdm.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="chkBoxMovimentar.Text" xml:space="preserve">
+    <value>Movimentar "Em Execução"</value>
+  </data>
+  <data name="groupBoxGombase.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="groupBoxFiscalizacao.Text" xml:space="preserve">
+    <value>Fiscalização:</value>
+  </data>
+  <data name="&gt;&gt;textBoxArquivoGomnetUpload.Parent" xml:space="preserve">
+    <value>groupBoxGomnetUploadInputArquivo</value>
+  </data>
+  <data name="&gt;&gt;groupBoxGomnetUploadInputArquivo.Name" xml:space="preserve">
+    <value>groupBoxGomnetUploadInputArquivo</value>
+  </data>
+  <data name="groupBoxFiscalizacao.Size" type="System.Drawing.Size, System.Drawing">
+    <value>345, 237</value>
+  </data>
+  <data name="btnArquivoGomnet.Size" type="System.Drawing.Size, System.Drawing">
+    <value>118, 34</value>
+  </data>
+  <data name="&gt;&gt;tabPageFaturamento.Parent" xml:space="preserve">
+    <value>tabControlObra</value>
+  </data>
+  <data name="btnAdmExecutar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>129, 179</value>
+  </data>
+  <data name="groupBoxProgramacao.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 99</value>
+  </data>
+  <data name="chkFiscMA.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 125</value>
+  </data>
+  <data name="&gt;&gt;groupBoxArquivoGomnet.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="tabControl1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="&gt;&gt;btnProgExecutar.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;chkBoxFiscMO.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="groupBoxGomnetUpload.Location" type="System.Drawing.Point, System.Drawing">
+    <value>8, 622</value>
+  </data>
+  <data name="&gt;&gt;textBoxArquivoGomnetUpload.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBoxArquivoGomnet.Name" xml:space="preserve">
+    <value>groupBoxArquivoGomnet</value>
+  </data>
+  <data name="btnGomnetUploadProcurar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>561, 22</value>
+  </data>
+  <data name="&gt;&gt;chkBoxCriarPI.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;tabPageFaturamento.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;chkBoxDataFisc.Name" xml:space="preserve">
+    <value>chkBoxDataFisc</value>
+  </data>
+  <data name="btnProgExecutar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>106, 35</value>
+  </data>
+  <data name="&gt;&gt;groupBoxFiscalizacao.Parent" xml:space="preserve">
+    <value>groupBoxGomnet</value>
+  </data>
+  <data name="btnProgExecutar.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="panel1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>746, 1060</value>
+  </data>
+  <data name="groupBoxAdmFisc.Text" xml:space="preserve">
+    <value>Administrativo:</value>
+  </data>
+  <data name="chkBoxExtrairSGD.Size" type="System.Drawing.Size, System.Drawing">
+    <value>103, 24</value>
+  </data>
+  <data name="&gt;&gt;tabPage1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;groupBoxAdmFisc.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="chkBoxExtrairPlanej.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 95</value>
+  </data>
+  <data name="&gt;&gt;btnGomnetUploadEnviarArquivos.Name" xml:space="preserve">
+    <value>btnGomnetUploadEnviarArquivos</value>
+  </data>
+  <data name="chkBoxStatusFisc.Text" xml:space="preserve">
+    <value>Extrair Status Fiscalização</value>
+  </data>
+  <data name="&gt;&gt;chkBoxDataFisc.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;tabPage2.Parent" xml:space="preserve">
+    <value>tabControl1</value>
+  </data>
+  <data name="chkBoxStatusSob.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="groupBoxGomnetUploadInputArquivo.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;chkBoxExtrairAPR.Parent" xml:space="preserve">
+    <value>groupBoxArquivos</value>
+  </data>
+  <data name="tabPage2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>738, 1032</value>
+  </data>
+  <data name="&gt;&gt;chkBoxVincSup.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;panel1.Name" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="chkBoxCriarPlanejamentos.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 118</value>
+  </data>
+  <data name="chkBoxExtrairNTrab.Location" type="System.Drawing.Point, System.Drawing">
+    <value>15, 64</value>
+  </data>
+  <data name="&gt;&gt;btnPlanejamentoGeralProcurar.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnGomnetUploadProcurar.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;chkBoxStatusFisc.Name" xml:space="preserve">
+    <value>chkBoxStatusFisc</value>
+  </data>
+  <data name="chkBoxExtrairNTrab.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="textBoxArquivoPlanejGeral.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 26</value>
+  </data>
+  <data name="&gt;&gt;chkBoxExtrairAPR.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="btnGomnetUploadEnviarArquivos.Size" type="System.Drawing.Size, System.Drawing">
+    <value>146, 35</value>
+  </data>
+  <data name="&gt;&gt;chkBoxFiscMO.Name" xml:space="preserve">
+    <value>chkBoxFiscMO</value>
+  </data>
+  <data name="&gt;&gt;chkBoxEnergizar.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxArquivoGombase.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tabPage2.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;btnGomnetUploadEnviarArquivos.Parent" xml:space="preserve">
+    <value>groupBoxGomnetUploadInputArquivo</value>
+  </data>
+  <data name="&gt;&gt;chkBoxDataFisc.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="groupBoxArquivoGomnet.Size" type="System.Drawing.Size, System.Drawing">
+    <value>701, 64</value>
+  </data>
+  <data name="chkBoxCriarPI.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 148</value>
+  </data>
+  <data name="&gt;&gt;btnGomBaseExecutar.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tabControlObra.Name" xml:space="preserve">
+    <value>tabControlObra</value>
+  </data>
+  <data name="&gt;&gt;chkBoxExtrairNTrab.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;chkBoxVincSup.Name" xml:space="preserve">
+    <value>chkBoxVincSup</value>
+  </data>
+  <data name="tabControl1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="btnArquivosExecutar.Text" xml:space="preserve">
+    <value>Executar</value>
+  </data>
+  <data name="&gt;&gt;chkBoxCriarPI.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBoxProgramacao.Parent" xml:space="preserve">
+    <value>groupBoxGomnet</value>
+  </data>
+  <data name="&gt;&gt;chkBoxStatusSob.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;checkBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="textBoxArquivoGomnetUpload.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 26</value>
+  </data>
+  <data name="&gt;&gt;chkBoxDataFisc.Parent" xml:space="preserve">
+    <value>groupBoxFiscalizacao</value>
+  </data>
+  <data name="chkBoxVistoriar.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="textBoxArquivoGombase.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 26</value>
+  </data>
+  <data name="tabPageManutencao.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="btnFiscExecutar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>106, 35</value>
+  </data>
+  <data name="&gt;&gt;tabControl1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabControl, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tabControlObra.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabControl, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="groupBoxAdmFisc.Size" type="System.Drawing.Size, System.Drawing">
+    <value>345, 237</value>
+  </data>
+  <data name="&gt;&gt;chkBoxVistoriar.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="chkBoxStatusSob.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="groupBoxGomnetUpload.Size" type="System.Drawing.Size, System.Drawing">
+    <value>711, 162</value>
+  </data>
+  <data name="&gt;&gt;tabPage2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="chkBoxEnergizar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>15, 123</value>
+  </data>
+  <data name="&gt;&gt;chkBoxExtrairSGD.Name" xml:space="preserve">
+    <value>chkBoxExtrairSGD</value>
+  </data>
+  <data name="&gt;&gt;btnFiscExecutar.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="chkBoxFiscMO.Text" xml:space="preserve">
+    <value>Fiscalizar Mão de Obra</value>
+  </data>
+  <data name="groupBoxPlanejamentoGeral.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="btnGombaseProcurar.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;groupBoxGomnetUpload.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="groupBoxArquivoGomnet.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;chkBoxExtrairSGD.Parent" xml:space="preserve">
+    <value>groupBoxArquivos</value>
+  </data>
+  <data name="&gt;&gt;textBoxArquivoGomnetUpload.Name" xml:space="preserve">
+    <value>textBoxArquivoGomnetUpload</value>
+  </data>
+  <data name="panel1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="tabPage1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 24</value>
+  </data>
+  <data name="&gt;&gt;btnArquivoGomnet.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxArquivoPlanejGeral.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="tabPageFaturamento.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 27</value>
+  </data>
+  <data name="&gt;&gt;groupBoxFiscalizacao.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="textBoxArquivoPlanejGeral.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;btnProgExecutar.Name" xml:space="preserve">
+    <value>btnProgExecutar</value>
+  </data>
+  <data name="chkBoxExtrairNTrab.Size" type="System.Drawing.Size, System.Drawing">
+    <value>174, 24</value>
+  </data>
+  <data name="&gt;&gt;textBoxArquivoGomnetAdm.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnAdmExecutar.Name" xml:space="preserve">
+    <value>btnAdmExecutar</value>
+  </data>
+  <data name="&gt;&gt;chkBoxVincSup.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="chkBoxExtrairSGD.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 35</value>
+  </data>
+  <data name="chkBoxMovimentar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>15, 93</value>
+  </data>
+  <data name="&gt;&gt;btnPlanejamentoGeralProcurar.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;chkBoxExtrairAPR.Name" xml:space="preserve">
+    <value>chkBoxExtrairAPR</value>
+  </data>
+  <data name="tabPage2.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="groupBoxGomnet.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 10.90909pt</value>
+  </data>
+  <data name="checkBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>183, 24</value>
+  </data>
+  <data name="&gt;&gt;groupBoxFiscalizacao.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="tabControl1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="chkBoxStatusFisc.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 35</value>
+  </data>
+  <data name="textBoxArquivoGomnetUpload.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;chkBoxExtrairPlanej.Parent" xml:space="preserve">
+    <value>groupBoxArquivos</value>
+  </data>
+  <data name="&gt;&gt;groupBoxPlanejamentoGeral.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;chkBoxCriarPlanejamentos.Name" xml:space="preserve">
+    <value>chkBoxCriarPlanejamentos</value>
+  </data>
+  <data name="chkBoxExtrairNTrab.Text" xml:space="preserve">
+    <value>Extrair Nº de Trabalho</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panel1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="groupBoxFiscalizacao.Location" type="System.Drawing.Point, System.Drawing">
+    <value>362, 342</value>
+  </data>
+  <data name="groupBoxGomnet.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.Name" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;checkBox1.Parent" xml:space="preserve">
+    <value>groupBoxGombase</value>
+  </data>
+  <data name="&gt;&gt;checkBox1.Name" xml:space="preserve">
+    <value>checkBox1</value>
+  </data>
+  <data name="&gt;&gt;btnArquivoGomnet.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;tabControlObra.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;chkBoxExtrairOrcamento.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBoxProgramacao.Name" xml:space="preserve">
+    <value>groupBoxProgramacao</value>
+  </data>
+  <data name="groupBoxArquivos.Size" type="System.Drawing.Size, System.Drawing">
+    <value>345, 237</value>
+  </data>
+  <data name="&gt;&gt;groupBoxGombase.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="groupBoxFiscalizacao.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="btnGomnetUploadEnviarArquivos.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;chkBoxExtrairPlanej.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnPlanejGeralExecutar.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="btnGomBaseExecutar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>109, 182</value>
+  </data>
+  <data name="&gt;&gt;chkFiscMA.Name" xml:space="preserve">
+    <value>chkFiscMA</value>
+  </data>
+  <data name="&gt;&gt;groupBoxGomnet.Parent" xml:space="preserve">
+    <value>tabPage1</value>
+  </data>
+  <data name="&gt;&gt;chkBoxMovimentar.Parent" xml:space="preserve">
+    <value>groupBoxProgramacao</value>
+  </data>
+  <data name="tabPage1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;groupBoxArquivos.Name" xml:space="preserve">
+    <value>groupBoxArquivos</value>
+  </data>
+  <data name="&gt;&gt;textBoxArquivoPlanejGeral.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="tabPage1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>738, 1032</value>
+  </data>
+  <data name="btnFiscExecutar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>129, 177</value>
+  </data>
+  <data name="&gt;&gt;btnArquivosExecutar.Parent" xml:space="preserve">
+    <value>groupBoxArquivos</value>
+  </data>
+  <data name="&gt;&gt;groupBox2.Name" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="chkBoxExtrairPlanej.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="chkBoxFiscMO.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;btnArquivoGomnet.Parent" xml:space="preserve">
+    <value>groupBoxArquivoGomnet</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;groupBoxAdmFisc.Parent" xml:space="preserve">
+    <value>groupBoxGomnet</value>
+  </data>
+  <data name="&gt;&gt;groupBoxArquivoGomnet.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="chkBoxFiscMO.Size" type="System.Drawing.Size, System.Drawing">
+    <value>180, 24</value>
+  </data>
+  <data name="chkBoxExtrairNTrab.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;groupBox2.Parent" xml:space="preserve">
+    <value>tabPage1</value>
+  </data>
+  <data name="&gt;&gt;groupBoxArquivos.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;panel1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="checkBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 118</value>
+  </data>
+  <data name="btnGomnetUploadEnviarArquivos.Location" type="System.Drawing.Point, System.Drawing">
+    <value>281, 70</value>
+  </data>
+  <data name="&gt;&gt;btnArquivoGomnet.Name" xml:space="preserve">
+    <value>btnArquivoGomnet</value>
+  </data>
+  <data name="&gt;&gt;btnPlanejamentoGeralProcurar.Name" xml:space="preserve">
+    <value>btnPlanejamentoGeralProcurar</value>
+  </data>
+  <data name="&gt;&gt;btnArquivosExecutar.Name" xml:space="preserve">
+    <value>btnArquivosExecutar</value>
+  </data>
+  <data name="&gt;&gt;chkBoxExtrairOrcamento.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;btnArquivosExecutar.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;btnPlanejGeralExecutar.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="btnProgExecutar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>105, 178</value>
+  </data>
+  <data name="chkBoxEnergizar.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI Semibold, 10.181818pt, style=Bold</value>
+  </data>
+  <data name="groupBox1.Text" xml:space="preserve">
+    <value>Base de dados:</value>
+  </data>
+  <data name="groupBoxGombase.Location" type="System.Drawing.Point, System.Drawing">
+    <value>8, 790</value>
+  </data>
+  <data name="btnAdmExecutar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>101, 35</value>
+  </data>
+  <data name="chkBoxCriarPI.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="btnGomnetUploadEnviarArquivos.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="&gt;&gt;groupBoxAdmFisc.Name" xml:space="preserve">
+    <value>groupBoxAdmFisc</value>
+  </data>
+  <data name="groupBoxAdmFisc.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="chkBoxVistoriar.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="groupBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="btnGomBaseExecutar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>106, 35</value>
+  </data>
+  <data name="btnArquivoGomnet.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 10.18182pt</value>
+  </data>
+  <data name="chkBoxExtrairOrcamento.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 125</value>
+  </data>
+  <data name="&gt;&gt;tabPage1.Parent" xml:space="preserve">
+    <value>tabControlObra</value>
+  </data>
+  <data name="tabPageManutencao.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 27</value>
+  </data>
+  <data name="&gt;&gt;btnArquivosExecutar.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tabPageManutencao.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="groupBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 26</value>
+  </data>
+  <data name="chkBoxExtrairPlanej.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 24</value>
+  </data>
+  <data name="&gt;&gt;chkBoxExtrairNTrab.Parent" xml:space="preserve">
+    <value>groupBoxAdmFisc</value>
+  </data>
+  <data name="chkBoxStatusFisc.Size" type="System.Drawing.Size, System.Drawing">
+    <value>197, 24</value>
+  </data>
+  <data name="groupBoxProgramacao.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 10.18182pt</value>
+  </data>
+  <data name="chkBoxStatusSob.Text" xml:space="preserve">
+    <value>Extrair Status Sob</value>
+  </data>
+  <data name="&gt;&gt;btnGomnetUploadEnviarArquivos.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="$this.AutoScroll" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="chkFiscMA.Text" xml:space="preserve">
+    <value>Fiscalizar Material</value>
+  </data>
+  <data name="&gt;&gt;textBoxArquivoGombase.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="groupBoxArquivos.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="chkBoxExtrairPlanej.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.Parent" xml:space="preserve">
+    <value>groupBoxGombase</value>
+  </data>
+  <data name="chkBoxVincSup.Size" type="System.Drawing.Size, System.Drawing">
+    <value>154, 24</value>
+  </data>
+  <data name="btnGombaseProcurar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>101, 36</value>
+  </data>
+  <data name="chkFiscMA.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;groupBoxGomnetUpload.Parent" xml:space="preserve">
+    <value>tabPage1</value>
+  </data>
+  <data name="groupBoxGombase.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 10.909091pt</value>
+  </data>
+  <data name="&gt;&gt;chkBoxMovimentar.Name" xml:space="preserve">
+    <value>chkBoxMovimentar</value>
+  </data>
+  <data name="&gt;&gt;groupBoxGomnet.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnFiscExecutar.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBoxGomnet.Name" xml:space="preserve">
+    <value>groupBoxGomnet</value>
+  </data>
+  <data name="&gt;&gt;groupBoxAdmFisc.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;groupBoxGomnetUpload.Name" xml:space="preserve">
+    <value>groupBoxGomnetUpload</value>
+  </data>
+  <data name="chkBoxStatusSob.Location" type="System.Drawing.Point, System.Drawing">
+    <value>15, 34</value>
+  </data>
+  <data name="&gt;&gt;btnGomnetUploadEnviarArquivos.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="chkBoxExtrairOrcamento.Size" type="System.Drawing.Size, System.Drawing">
+    <value>148, 24</value>
+  </data>
+  <data name="&gt;&gt;tabControl1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;groupBoxGombase.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnGomnetUploadProcurar.Name" xml:space="preserve">
+    <value>btnGomnetUploadProcurar</value>
+  </data>
+  <data name="chkBoxExtrairAPR.Size" type="System.Drawing.Size, System.Drawing">
+    <value>101, 24</value>
+  </data>
+  <data name="&gt;&gt;textBoxArquivoPlanejGeral.Parent" xml:space="preserve">
+    <value>groupBoxPlanejamentoGeral</value>
+  </data>
+  <data name="groupBoxGomnetUpload.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 10.909091pt</value>
+  </data>
+  <data name="&gt;&gt;tabPageFaturamento.Name" xml:space="preserve">
+    <value>tabPageFaturamento</value>
+  </data>
+  <data name="&gt;&gt;chkBoxExtrairPlanej.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;groupBoxFiscalizacao.Name" xml:space="preserve">
+    <value>groupBoxFiscalizacao</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>FormPrincipal</value>
+  </data>
+  <data name="tabPage2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 24</value>
+  </data>
+  <data name="chkBoxStatusFisc.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="textBoxArquivoGombase.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;chkBoxStatusSob.Name" xml:space="preserve">
+    <value>chkBoxStatusSob</value>
+  </data>
+  <data name="&gt;&gt;chkBoxStatusFisc.Parent" xml:space="preserve">
+    <value>groupBoxFiscalizacao</value>
+  </data>
+  <data name="groupBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>339, 73</value>
+  </data>
+  <data name="&gt;&gt;groupBoxGomnetUploadInputArquivo.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="checkBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;tabPageManutencao.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBoxGomnetUploadInputArquivo.Parent" xml:space="preserve">
+    <value>groupBoxGomnetUpload</value>
+  </data>
+  <data name="&gt;&gt;groupBoxGombase.Parent" xml:space="preserve">
+    <value>tabPage1</value>
+  </data>
+  <data name="groupBoxGomnetUploadInputArquivo.Text" xml:space="preserve">
+    <value>Diretório raiz:</value>
+  </data>
+  <data name="btnFiscExecutar.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
   <metadata name="tabPageManutencao.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
+  </metadata>
+  <metadata name="$this.Language" type="System.Globalization.CultureInfo, System.Private.CoreLib, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+    <value>pt-BR</value>
   </metadata>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
